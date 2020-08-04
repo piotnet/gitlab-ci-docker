@@ -41,7 +41,6 @@ RUN additionalPackages=" \
         libicu52 \
         libjpeg62-turbo \
         libmcrypt4 \
-        libpng12-0 \
         libpq5 \
         libsybdb5 \
         libtidy-dev \
