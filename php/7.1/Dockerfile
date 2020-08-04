@@ -21,7 +21,7 @@ RUN additionalPackages=" \
         libkrb5-dev \
         libldap2-dev \
         libmcrypt-dev \
-        libpng12-dev \
+        libpng-dev \
         libpq-dev \
         libpspell-dev \
         librabbitmq-dev \
